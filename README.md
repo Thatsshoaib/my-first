@@ -1,2 +1,3 @@
-# my-first
-this is my first repository
+# My-First
+This is my first GIT Repository.
+Author - Shoaib Raza
